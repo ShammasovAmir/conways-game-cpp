@@ -1,0 +1,3 @@
+C:/Projects/conways-game-cpp/cmake-build-debug/CMakeFiles/conways_game_cpp.dir
+C:/Projects/conways-game-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/conways-game-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
